@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning informatics
 - 💞️ I’m looking to collaborate on quantum computing
 - 📫 How to reach me hantia@fcpn.edu.bo
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he / him
 - ⚡ Fun fact: hahahaha
 
 <!---
